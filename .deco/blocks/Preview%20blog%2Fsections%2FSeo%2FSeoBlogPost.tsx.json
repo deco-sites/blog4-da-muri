@@ -1,0 +1,10 @@
+{
+  "__resolveType": "blog/sections/Seo/SeoBlogPost.tsx",
+  "jsonLD": {
+    "@type": "BlogPostPage",
+    "post": {
+      "authors": [],
+      "categories": []
+    }
+  }
+}
